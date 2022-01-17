@@ -1,0 +1,14 @@
+16:15:54,712 DEBUG DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:26 - Open Website
+16:15:54,835  INFO DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:29 - Maximize the window
+16:34:19,224 DEBUG DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:26 - Open Website
+16:34:19,346  INFO DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:29 - Maximize the window
+16:34:19,434  WARN DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:32 - Entering Username
+16:34:19,531 FATAL DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:35 - Entering password
+16:34:19,604 ERROR DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:38 - Click on sign-in button
+16:34:19,815  INFO DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:41 - closing browser
+16:35:50,180 DEBUG DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:26 - Open Website
+16:35:50,303  INFO DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:29 - Maximize the window
+16:35:50,420  WARN DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:32 - Entering Username
+16:35:50,520 FATAL DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:35 - Entering password
+16:35:50,613 ERROR DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:38 - Click on sign-in button
+16:35:50,769  INFO DemoA.Log4JDemo.Log4jLogging<strong>{1}</strong>:41 - closing browser

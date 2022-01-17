@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="DemoA.Log4JDemo.ReportGenerationTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="launchBrowser"/>
+          <include name="verifyTitle"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- DemoA.Log4JDemo.ReportGenerationTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
